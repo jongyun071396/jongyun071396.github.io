@@ -38,13 +38,13 @@
 		border: solid 2px #dfdfdf;
 	}
 
-		input[type="submit"].special,
+	/*	input[type="submit"].special,
 		input[type="reset"].special,
 		input[type="button"].special,
 		button.special,
 		.button.special {
 			border: 0 !important;
-		}
+		}*/
 
 /* Page Wrapper + Menu */
 
